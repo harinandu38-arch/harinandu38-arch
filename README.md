@@ -19,7 +19,7 @@ Hello! I'm **Harinandhan Rajesh**, a passionate cybersecurity student from **Ker
 - Network Security  
 - OSINT & Reconnaissance  
 - Ethical Hacking Tools  
-- cYBER sECURITY  
+- Cyber Security
 
 ---
 
@@ -27,10 +27,10 @@ Hello! I'm **Harinandhan Rajesh**, a passionate cybersecurity student from **Ker
 ### 🔹 Listy – Smart Website Wordlist Generator
 One of my proud projects!
 
-- CLI-based tool available on GitHub  
-- Browser extensions available for:
-  - 🌐 Chrome  
-  - 🦊 Firefox  
+- CLI-based tool will be available soon on GitHub  
+- Browser extensions will be available for:
+  - 🌐 Chrome/Chromium Based Browsers  
+  - 🦊 Firefox & fellow browsers  
 - Helps generate smart wordlists for security testing  
 
 ---
