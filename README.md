@@ -19,7 +19,7 @@ Hello! I'm **Harinandhan Rajesh**, a passionate cybersecurity student from **Ker
 - Network Security  
 - OSINT & Reconnaissance  
 - Ethical Hacking Tools  
-- Python (Basics)  
+- cYBER sECURITY  
 
 ---
 
